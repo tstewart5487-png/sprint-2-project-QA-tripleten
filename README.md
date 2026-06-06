@@ -1,7 +1,10 @@
 # Sprint 2 Project - QA
 
+## 🚀 Quick Start
+**[→ View Full Project Details: Sprint 2 QA Project.md](Sprint%202%20QA%20Project.md)**
+
 ## Overview
-This repository documents my second project completed through the **TripleTen bootcamp program**. The project focuses on **Quality Assurance (QA)** methodologies and test case development during the second sprint of the curriculum.
+This repository documents my second project completed through the **TripleTen bootcamp program**. The project focuses on **Quality Assurance (QA)** methodologies and test case development during th[...]
 
 ## Project Objectives
 This QA project demonstrates proficiency in:
@@ -13,7 +16,7 @@ This QA project demonstrates proficiency in:
 - Technical documentation and communication best practices
 
 ## Project Scope: Test Case Development
-The primary objective of this project is to develop detailed, comprehensive test cases derived from atomic blocks of requirements. This approach ensures that each requirement is systematically decomposed into its smallest, independently testable components, maximizing test coverage and precision.
+The primary objective of this project is to develop detailed, comprehensive test cases derived from atomic blocks of requirements. This approach ensures that each requirement is systematically dec[...]
 
 ### Testing Methodologies Applied
 - **Equivalence Partitioning** – A test case design technique that partitions input data into classes of equivalent values, reducing test case volume while maintaining comprehensive coverage
