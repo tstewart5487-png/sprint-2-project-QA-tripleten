@@ -152,10 +152,12 @@
 | | `123 Creston Street, Kalamazoo, Michigan, MI, 4900` (49) | |
 | | `123 Creston Street, Kalamazoo, Michigan, MI, 49002` (50) | |
 | | `123 Creston Street, Kalamazoo, Michigan, MI, 49002-` (51) | |
+| | `123 Creston Street, Kalamazoo, Michigan, MI, 49002--` (52) | |
 | | `123 Creston Street, Kalamazoo, Michigan, MI, 49002----` (53) | 51+ chars |
 | | `123 Creston Street, Kalamazoo, Michigan, MI, 4900` (49) | Boundary |
 | | `123 Creston Street, Kalamazoo, Michigan, MI, 49002` (50) | Boundary |
 | | `123 Creston Street, Kalamazoo, Michigan, MI, 49002-` (51) | Boundary |
+| | `123 Creston Street, Kalamazoo, Michigan, MI, 49002--` (52) | |
 | `" 123 Creston Street"` | `" 123 Creston Street"` | Leading Spaces |
 | `"123 Creston Street "` | `"123 Creston Street "` | Trailing Spaces |
 
