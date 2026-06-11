@@ -112,7 +112,7 @@
 | Non-Latin Characters | |
 | Special Characters | |
 | 0–50 Characters | 0, 1, 49, 50, 51 |
-| 51+ Characters | 49, 50, 51 |
+| 51+ Characters | 51, 52, 53 |
 | Leading Spaces | |
 | Trailing Spaces | |
 
@@ -129,7 +129,7 @@
 | Non-Latin Characters | |
 | Special Characters | |
 | 0–50 Characters | 0, 1, 49, 50, 51 |
-| 51+ Characters | 49, 50, 51 |
+| 51+ Characters | 51, 52, 53 |
 | Leading Spaces | |
 | Trailing Spaces | |
 
